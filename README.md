@@ -7,24 +7,25 @@
 ## Sobre mí 👨‍💻
 
 ¡Hola! Soy **Roberto Valladolid**, un ingeniero y analista de datos con experiencia en extracción, transformación y carga de datos. Me apasiona trabajar con datos para generar insights que impulsen la toma de decisiones. Recientemente, me gradué de la Maestría en Inteligencia Artificial Aplicada en la Universidad Técnica Particular de Loja (UTPL), donde desarrollé un proyecto innovador titulado "Modelo predictivo para semaforización del rendimiento estudiantil".
+Apunto integrarme a un equipo dinámico donde pueda aplicar mis habilidades para contribuir a proyectos innovadores con impacto global.
 
 ## Habilidades Técnicas 🛠️
 
 - **Lenguajes de Programación:** Python, SQL, PLSQL
 - **Bases de Datos:** Oracle, MongoDB
-- **Visualización de Datos:** Matplotlib, Seaborn
+- **Visualización de Datos:** Looker Studio, Power BI
 - **Big Data:** Spark
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Control de versiones:** GitHub, GitLab.
 
 ## Experiencia Laboral 💼
 
-### **Data Analyst** - Universidad Técnica Particular de Loja
-- **Fecha:** 2021 - Presente
-- **Responsabilidades:**
-  - Desarrollo de indicadores para medir el desempeño docente.
-  - Extracción, transformación y carga de datos (ETL) desde diversas fuentes.
-  - Procesamiento y análisis de información para la toma de decisiones.
+### **Ingeniero y analista de datos** - Universidad Técnica Particular de Loja
+- **2021** - Presente
+- **Responsabilidades y Logros:**
+  - Desarrollo de un modelo predictivo para predecir la desercion estudiantil, utilizando datos de interacción en plataformas de aprendizaje (Canvas y Zoom) y técnicas de machine learning, logrando identificar con un 85% de precisión a estudiantes en riesgo académico.
+  - Diseño e implementación de pipelines de datos escalables para medir el desempeño docente y estudiantil, reduciendo el tiempo de carga de datos mediante la optimización de consultas y procesos ETL.
+  - 
 
 ### **Ingeniero en datos** - Universidad Técnica Particular de Loja
 - **Fecha:** 2021 - Presente
