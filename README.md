@@ -74,8 +74,8 @@ Apunto integrarme a un equipo dinámico donde pueda aplicar mis habilidades para
 
 ## ¡Conéctate conmigo! 🤝
 
-- [LinkedIn](https://github.com/robertovalladolid)
-- [GitHub](#) (enlace a tu perfil de GitHub)
+- [LinkedIn](https://www.linkedin.com/in/rcvalladolid/)
+- [GitHub](https://github.com/robertovalladolid)
 
 ---
 
