@@ -23,7 +23,7 @@ Apunto integrarme a un equipo dinámico donde pueda aplicar mis habilidades para
 ### **Ingeniero y analista de datos** - Universidad Técnica Particular de Loja
 - **2021** - Presente
 - **Responsabilidades y Logros:**
-  - Desarrollo de un modelo predictivo para predecir la desercion estudiantil, utilizando datos de interacción en plataformas de aprendizaje (Canvas y Zoom) y técnicas de machine learning, logrando identificar con un 85% de precisión a estudiantes en riesgo académico en tres nivles: alto, medio y bajo.
+  - Desarrollo de un modelo predictivo para predecir la deserción estudiantil, utilizando datos de interacción en plataformas de aprendizaje (Canvas y Zoom) y técnicas de machine learning, logrando identificar con un 85% de precisión a estudiantes en riesgo académico en tres nivles: alto, medio y bajo.
   - Implementación de un sistema automatizado para la creación de sesiones de Zoom, integrado con Canvas mediante APIs, eliminando la necesidad de creación manual de sesiones y mejorando la eficiencia en la gestión de tutorías en un 80%.
   - Diseño e implementación de pipelines de datos escalables para medir el desempeño docente y estudiantil, reduciendo el tiempo de carga de datos mediante la optimización de consultas y procesos ETL.
   - Automatización de flujos de trabajo ETL utilizando Prefect.io y Python en un entorno de producción Linux, reduciendo el tiempo de procesamiento de datos en un 30% y eliminando errores manuales.
