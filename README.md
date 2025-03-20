@@ -28,7 +28,7 @@ Apunto integrarme a un equipo dinámico donde pueda aplicar mis habilidades para
   - Diseño e implementación de pipelines de datos escalables para medir el desempeño docente y estudiantil, reduciendo el tiempo de carga de datos mediante la optimización de consultas y procesos ETL.
   - Automatización de flujos de trabajo ETL utilizando Prefect.io y Python en un entorno de producción Linux, reduciendo el tiempo de procesamiento de datos en un 30% y eliminando errores manuales.
   - Desarrollo de una arquitectura de datos eficiente para la agregación y análisis de datos académicos, utilizando MongoDB y procesos automatizados con Prefect.io, lo que permitió reducir el tiempo de procesamiento para indicadores clave de desempeño.
-- **Habilidaes Funcionales:**
+- **Habilidades Funcionales:**
   - Modelado predictivo y análisis avanzado de datos para la toma de decisiones en la deserción estudiantil.
   - Implementación de pipelines ETL en infraestructura interna.
   - Automatización de procesos y flujos de trabajo con herramientas modernas.
