@@ -6,8 +6,9 @@
 
 ## Sobre mí 👨‍💻
 
-¡Hola! Soy **Roberto Valladolid**, un ingeniero y analista de datos con experiencia en extracción, transformación y carga de datos. Me apasiona trabajar con datos para generar insights que impulsen la toma de decisiones. Recientemente, me gradué de la Maestría en Inteligencia Artificial Aplicada en la Universidad Técnica Particular de Loja (UTPL), donde desarrollé un proyecto innovador titulado "Modelo predictivo para semaforización del rendimiento estudiantil".
-Apunto integrarme a un equipo dinámico donde pueda aplicar mis habilidades para contribuir a proyectos innovadores con impacto global.
+¡Hola! Soy **Roberto Valladolid**, un apasionado de convertir datos en información valiosa y decisiones estratégicas. Como Ingeniero y Analista de Datos, tengo amplia experiencia en la extracción, análisis y generación de indicadores clave que ayudan a directivos y empresas a ver más allá de los números.
+Además, como Ingeniero en Machine Learning, me especializo en predecir tendencias futuras, implementar modelos avanzados y extraer el máximo valor de los datos. Mi trayectoria en el ámbito educativo me ha permitido desarrollar soluciones innovadoras con un impacto real en la toma de decisiones.
+Me motiva ayudar a personas a alcanzar su mejor versión, optimizando procesos y descubriendo oportunidades ocultas en los datos. Si buscas a alguien que no solo analice números, sino que los transforme en resultados, ¡te escucho!
 
 ## Habilidades Técnicas 🛠️
 
