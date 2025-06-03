@@ -6,9 +6,7 @@
 
 ## Sobre mí 👨‍💻
 
-¡Hola! Soy **Roberto Valladolid**, un apasionado de convertir datos en información valiosa y decisiones estratégicas. Como Ingeniero y Analista de Datos, tengo amplia experiencia en la extracción, análisis y generación de indicadores clave que ayudan a directivos y empresas a ver más allá de los números. Además, como Ingeniero en Machine Learning, me especializo en predecir tendencias futuras, implementar modelos avanzados y extraer el máximo valor de los datos. 
-
-Mi trayectoria en el ámbito educativo me ha permitido desarrollar soluciones innovadoras con un impacto real en la toma de decisiones.Me motiva ayudar a personas a alcanzar su mejor versión, optimizando procesos y descubriendo oportunidades ocultas en los datos. Si buscas a alguien que no solo analice números, sino que los transforme en resultados.
+¡Hola! Soy **Roberto Valladolid**, un Ingeniero en Datos con más de 5 años de experiencia análisis, machine learning y procesamiento de grandes volúmenes de datos. Especializado en el sector educativo, he liderado proyectos que integran inteligencia artificial, automatización con APIs y pipelines escalables, conocimiento en infraestructura en la nube (AWS) y visualización de datos para la toma de decisiones. Cuento con certificaciones en ingeniería de datos, análisis con AWS y desarrollo de soluciones con maching learning.
 
 ## Habilidades Técnicas 🛠️
 
@@ -17,6 +15,8 @@ Mi trayectoria en el ámbito educativo me ha permitido desarrollar soluciones in
 - **Visualización de Datos:** Looker Studio, Power BI
 - **Big Data:** Agregaciones MongoDB
 - **Machine Learning:** Scikit-learn, TensorFlow
+- **Cloud:** AWS (Cloud Practitioner & Data Analytics Certified).
+- **Big Data & Procesamiento:** PySpark, Spark en AWS, Apache Kafka
 - **Control de versiones:** GitHub.
 
 ## Experiencia Laboral 💼
