@@ -18,7 +18,7 @@ Ingeniero de Datos con más de 10 años de experiencia en ingeniería de datos y
 | DevOps y CI/CD | Azure DevOps (Repos, Pipelines), Docker, Git, GitHub |
 | Bases de datos | Oracle, PostgreSQL, MongoDB, SQLite |
 | Machine Learning e IA | Scikit-learn, TensorFlow, MLflow, LangChain, LLMs (Ollama, OpenAI), Databricks Genie |
-| Cloud y visualización | Microsoft Azure, AWS, Power BI (DAX), Looker Studio |
+| Cloud y visualización | Microsoft Azure, Power BI (DAX), Looker Studio |
 
 ---
 
