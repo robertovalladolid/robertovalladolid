@@ -1,83 +1,76 @@
 # Hola, soy Roberto Valladolid 👋
 
-<!--
-**robertovalladolid/robertovalladolid** es un repositorio especial porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
--->
+**Data Engineer | Azure Databricks · PySpark · SQL · Python | Machine Learning e IA**
 
-## Sobre mí 👨‍💻
+Ingeniero de Datos con más de 8 años de experiencia en ingeniería de datos y desarrollo de software en el sector educativo (Universidad Técnica Particular de Loja). Diseño pipelines ETL/ELT y arquitecturas Lakehouse con **Python, SQL, Apache Spark y Azure Databricks**, automatizo integraciones con APIs y llevo modelos de machine learning e IA generativa a producción para la toma de decisiones institucionales.
 
-¡Hola! Soy **Roberto Valladolid**, un Ingeniero en Datos con más de 5 años de experiencia análisis, machine learning y procesamiento de grandes volúmenes de datos. Especializado en el sector educativo, he liderado proyectos que integran inteligencia artificial, automatización con APIs y pipelines escalables, conocimiento en infraestructura en la nube (AWS) y visualización de datos para la toma de decisiones. Cuento con certificaciones en ingeniería de datos, análisis con AWS y desarrollo de soluciones con maching learning.
-
-## Habilidades Técnicas 🛠️
-
-- **Lenguajes de Programación:** Python, SQL, PLSQL
-- **Bases de Datos:** Oracle, MongoDB
-- **Visualización de Datos:** Looker Studio, Power BI
-- **Big Data:** Agregaciones MongoDB
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Cloud:** AWS (Cloud Practitioner & Data Analytics Certified).
-- **Big Data & Procesamiento:** PySpark, Spark en AWS, Apache Kafka
-- **Control de versiones:** GitHub.
-
-## Experiencia Laboral 💼
-
-### **Ingeniero y analista de datos** - Universidad Técnica Particular de Loja
-- **2021** - Presente
-- **Responsabilidades y Logros:**
-  - Desarrollo de un modelo predictivo para predecir la deserción estudiantil, utilizando datos de interacción en plataformas de aprendizaje (Canvas y Zoom) y técnicas de machine learning, logrando identificar con un 85% de precisión a estudiantes en riesgo académico en tres nivles: alto, medio y bajo.
-  - Implementación de un sistema automatizado para la creación de sesiones de Zoom, integrado con Canvas mediante APIs, eliminando la necesidad de creación manual de sesiones y mejorando la eficiencia en la gestión de tutorías en un 80%.
-  - Diseño e implementación de pipelines de datos escalables para medir el desempeño docente y estudiantil, reduciendo el tiempo de carga de datos mediante la optimización de consultas y procesos ETL.
-  - Automatización de flujos de trabajo ETL utilizando Prefect.io y Python en un entorno de producción Linux, reduciendo el tiempo de procesamiento de datos en un 30% y eliminando errores manuales.
-  - Desarrollo de una arquitectura de datos eficiente para la agregación y análisis de datos académicos, utilizando MongoDB y procesos automatizados con Prefect.io, lo que permitió reducir el tiempo de procesamiento para indicadores clave de desempeño.
-- **Habilidades Funcionales:**
-  - Modelado predictivo y análisis avanzado de datos para la toma de decisiones en la deserción estudiantil.
-  - Implementación de pipelines ETL en infraestructura interna.
-  - Automatización de procesos y flujos de trabajo con herramientas modernas.
-  - Integración de datos desde múltiples fuentes (APIs, bases de datos, plataformas educativas).
-  - Visualización de datos y creación de dashboards para procesos operativos.
-
-## Proyectos Realizados 📂
-
-| **Proyecto**                                      | **Descripción**                                                                 | **Tecnologías Utilizadas**        | **Institución**                        |
-|---------------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------|----------------------------------------|
-| **Modelo Predictivo para Deserción Estudiantil**  | Desarrollo e implementación de un modelo predictivo con un 85% de precisión     | Python, Maching Learning          | Universidad Técnica Particular de Loja |
-| **Automatización de Sesiones de Zoom**            | Implementación de un sistema automatizado para la creación de sesiones de Zoom  | Python, Prefect.io, APIs, Linux   | Universidad Técnica Particular de Loja |
-| **Arquitectura de Datos para LMS**                | Diseño e implementación de una arquitectura de datos eficiente                  | MongoDB, Prefect.io, Python, ETL  | Universidad Técnica Particular de Loja |
-| **Análisis de Desempeño Docente**                 | Desarrollo de indicadores clave para medir el desempeño docente                 | PLSQL, Agregaciones Mongo, Python | Universidad Técnica Particular de Loja |
-| **Procesamiento de Datos Masivos**                | Extracción, transformación y carga (ETL) de datos desde diversas fuentes        | Python, APIs, ETL, Prefect.i      | Universidad Técnica Particular de Loja |
-
-## Educación 🎓
-
-- **Máster en Inteligencia Artificial Aplicada**  
-  Universidad Técnica Particular de Loja (Ecuador) - 2025
-
-- **Máster en Análisis y Visualización de Datos Masivos**  
-  Universidad Internacional de la Rioja (España) - 2018
-
-- **Ingeniero en Sistemas Informáticos y Computación**  
-  Universidad Técnica Particular de Loja (Ecuador) - 2015
-
-## Méritos Académicos y Profesionales 🏆
-
-- **Tercer Lugar en Concurso Universitario de Desarrollo Web**  
-  Universidad Técnica Particular de Loja - 2014
-
-## Contacto 📫
-
-- 📧 **Correo Electrónico:** [rcvalladolid87@gmail.com](mailto:rcvalladolid87@gmail.com)
-- 📱 **Teléfono:** +593 958652422
-- 🌍 **Ubicación:** Loja, Ecuador
-
-## Intereses 🌱
-
-- **Aprendizaje Continuo:** Comprometido con la mejora constante, siempre estoy explorando y adoptando nuevas tecnologías y metodologías relacionadas con el diseño de pipelines de datos, análisis avanzado y machine learning. Recientemente, he profundizado en modelos de clusterización como KMeans y RobustScaler, para clasificar a los estudiantes en niveles de deserción.
-- **Colaboración:** Me gusta trabajar en equipo y colaborar en proyectos desafiantes.
-
-## ¡Conéctate conmigo! 🤝
-
-- [LinkedIn](https://www.linkedin.com/in/rcvalladolid/)
-- [GitHub](https://github.com/robertovalladolid)
+📍 Loja, Ecuador · 💼 [LinkedIn](https://www.linkedin.com/in/rcvalladolid/) · 📧 rcvalladolid87@gmail.com
 
 ---
 
-⭐️ **Gracias por visitar mi perfil de GitHub!** ⭐️
+## 🛠️ Stack técnico
+
+| Área | Tecnologías |
+|---|---|
+| Lenguajes | Python, SQL, PL/SQL, MQL (MongoDB Aggregation Pipeline) |
+| Ingeniería de datos | Apache Spark (PySpark, Spark SQL), Azure Databricks, Delta Lake, Unity Catalog, arquitectura Medallion / Lakehouse, ETL/ELT, calidad de datos |
+| Orquestación | Prefect, Talend, procesamiento concurrente y paralelo |
+| DevOps y CI/CD | Azure DevOps (Repos, Pipelines), Docker, Git, GitHub |
+| Bases de datos | Oracle, PostgreSQL, MongoDB, SQLite |
+| Machine Learning e IA | Scikit-learn, TensorFlow, MLflow, LangChain, LLMs (Ollama, OpenAI), Databricks Genie |
+| Cloud y visualización | Microsoft Azure, AWS, Power BI (DAX), Looker Studio |
+
+---
+
+## 🚀 Proyectos
+
+| Proyecto | Qué hace | Tecnologías | Repositorio |
+|---|---|---|---|
+| **Pipeline Medallion en Databricks** | Ingesta y transformación por capas Bronze / Silver / Gold con validaciones de calidad de datos | Azure Databricks, PySpark, Delta Lake, Unity Catalog | 🚧 Próximamente |
+| **ETL con Prefect y MongoDB** | Flujos ETL orquestados con Prefect y agregaciones en MongoDB para indicadores académicos | Python, Prefect, MongoDB, Docker | 🚧 Próximamente |
+| **Predicción de deserción estudiantil** | Modelo de clasificación de estudiantes por nivel de riesgo (alto, medio, bajo) | Python, Scikit-learn, MLflow | 🚧 Próximamente |
+| **Asistente académico conversacional** | Responde en lenguaje natural consultas de estudiantes usando datos de Canvas y Zoom | LangChain, Ollama, APIs REST | 🚧 Próximamente |
+| **Barra de progreso para Canvas (LTI)** | Herramienta externa LTI que muestra al estudiante su progreso por módulos | Node.js, Express, API REST de Canvas, LTI | [barra_progreso_lms_canvas](https://github.com/robertovalladolid/barra_progreso_lms_canvas) |
+| **MongoDB con Docker Compose** | Despliegue de MongoDB 6.0 con autenticación, volúmenes persistentes y variables de entorno | Docker, Docker Compose, MongoDB | [docker-mongodb](https://github.com/robertovalladolid/docker-mongodb) |
+| **Seguimiento de experimentos con MLflow** | Registro de experimentos y ajuste de hiperparámetros de un modelo de clasificación (trabajo de máster) | Python, Scikit-learn, MLflow | [Laboratorio2_IA](https://github.com/robertovalladolid/Laboratorio2_IA) |
+
+---
+
+## 💼 Experiencia
+
+**Desarrollador – Ingeniería de Datos e IA** · Universidad Técnica Particular de Loja (UTPL) · *Feb 2015 – Presente*
+
+- Pipelines ETL/ELT con arquitectura Medallion en Azure Databricks (Delta Lake, Unity Catalog) con validaciones de calidad de datos.
+- Flujos ETL con Prefect y Python en producción (Linux) con agregaciones en MongoDB: **−30% en tiempo de procesamiento**.
+- Integración de múltiples fuentes en una arquitectura Big Data on-premise con procesamiento concurrente y paralelo: **−50% en tiempo de carga**.
+- Automatización de sesiones de Zoom en Canvas (API de Zoom, LTI Pro): **más de 2000 sesiones por periodo**, coordinación de **24 h a menos de 10 min**.
+- Modelo de predicción de deserción estudiantil con **más del 85% de exactitud (accuracy)**.
+- Asistente académico conversacional con LangChain y Ollama integrado con Canvas y Zoom.
+- Modelos de datos e indicadores de desempeño académico en Power BI (DAX).
+
+**Desarrollador de Software** · Compañía de Economía Mixta Lojagas · *Nov 2010 – Ene 2015*
+
+- Aplicaciones internas de gestión sobre bases de datos relacionales, con modelos de datos y consultas SQL.
+
+---
+
+## 🎓 Educación
+
+- **Máster en Inteligencia Artificial Aplicada** — UTPL, Ecuador (2025)
+- **Máster en Análisis y Visualización de Datos Masivos** — UNIR, España (2018)
+- **Ingeniería en Sistemas Informáticos y Computación** — UTPL, Ecuador (2015)
+
+## 📜 Certificaciones y formación
+
+- Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750) — *en preparación (2026)*
+- Databricks Fundamentals Accreditation — Databricks (2025)
+- Data Engineering Bootcamp (AWS) — Datademia (2025)
+- Data Engineer Associate y Associate Data Engineer in Databricks (career track) — DataCamp (2026)
+
+## 🏆 Reconocimientos
+
+- Tercer lugar, Concurso Universitario de Desarrollo Web — UTPL (2014)
+
+---
+
+⭐️ ¡Gracias por visitar mi perfil!
