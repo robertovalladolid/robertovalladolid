@@ -2,7 +2,7 @@
 
 **Data Engineer | Azure Databricks · PySpark · SQL · Python | Machine Learning e IA**
 
-Ingeniero de Datos con más de 8 años de experiencia en ingeniería de datos y desarrollo de software en el sector educativo (Universidad Técnica Particular de Loja). Diseño pipelines ETL/ELT y arquitecturas Lakehouse con **Python, SQL, Apache Spark y Azure Databricks**, automatizo integraciones con APIs y llevo modelos de machine learning e IA generativa a producción para la toma de decisiones institucionales.
+Ingeniero de Datos con más de 10 años de experiencia en ingeniería de datos y desarrollo de software en el sector educativo (Universidad Técnica Particular de Loja). Diseño pipelines ETL/ELT y arquitecturas Lakehouse con **Python, SQL, Apache Spark y Azure Databricks**, automatizo integraciones con APIs y llevo modelos de machine learning e IA generativa a producción para la toma de decisiones institucionales.
 
 📍 Loja, Ecuador · 💼 [LinkedIn](https://www.linkedin.com/in/rcvalladolid/) · 📧 rcvalladolid87@gmail.com
 
