@@ -27,7 +27,7 @@ Data Engineer with 10+ years of experience in data engineering and software deve
 | Project | What it does | Tech | Repo |
 |---|---|---|---|
 | **Databricks Medallion pipeline** | Bronze / Silver / Gold ingestion and transformation with data quality checks | Azure Databricks, PySpark, Delta Lake, Unity Catalog | 🚧 Coming soon |
-| **Prefect + MongoDB ETL** | Prefect-orchestrated ETL flows with MongoDB aggregations for academic KPIs | Python, Prefect, MongoDB, Docker | 🚧 Coming soon |
+| **EVA Learning Data Pipeline** | End-to-end medallion pipeline (bronze/silver/gold) that ingests batch and streaming JSON from Canvas LMS and Zoom APIs into a curated model for teacher and student performance analytics | Python, Prefect, MongoDB, Docker, SQL, PLSQL | (https://github.com/robertovalladolid/utpl-flujo-datos-eva.git) |
 | **Student dropout prediction** | Classifies students by risk level (high, medium, low) | Python, Scikit-learn, MLflow | 🚧 Coming soon |
 | **Conversational academic assistant** | Answers student questions in natural language using Canvas and Zoom data | LangChain, Ollama, REST APIs | 🚧 Coming soon |
 | **Canvas progress bar (LTI)** | External LTI tool showing each student their progress by course module | Node.js, Express, Canvas REST API, LTI | [barra_progreso_lms_canvas](https://github.com/robertovalladolid/barra_progreso_lms_canvas) |
