@@ -27,7 +27,7 @@ Data Engineer with 10+ years of experience in data engineering and software deve
 | Project | What it does | Tech | Repo |
 |---|---|---|---|
 | **Databricks Medallion pipeline** | Bronze / Silver / Gold ingestion and transformation with data quality checks | Azure Databricks, PySpark, Delta Lake, Unity Catalog | 🚧 Coming soon |
-| **EVA Learning Data Pipeline** | End-to-end medallion pipeline (bronze/silver/gold) that ingests batch and streaming JSON from Canvas LMS and Zoom APIs into a curated model for teacher and student performance analytics | Python, Prefect, MongoDB, Docker, SQL, PLSQL | [utpl-flujo-datos-eva](https://github.com/robertovalladolid/utpl-flujo-datos-eva.git) |
+| **EVA Learning Analytics Data Pipeline** | Medallion pipeline that integrates data from Canvas LMS, Zoom, and ERP. About 50 Prefect flows and 115+ scheduled deployments. Ingestion is spread over distributed Docker workers | Python, Prefect, MongoDB, Docker, SQL, PLSQL, PostgreSQL | [utpl-flujo-datos-eva](https://github.com/robertovalladolid/utpl-flujo-datos-eva.git) |
 | **Student dropout prediction** | Classifies students by risk level (high, medium, low) | Python, Scikit-learn, MLflow | 🚧 Coming soon |
 | **Conversational academic assistant** | Answers student questions in natural language using Canvas and Zoom data | LangChain, Ollama, REST APIs | 🚧 Coming soon |
 | **Zoom Session Automation for Canvas LMS** | Web app that creates and keeps in sync the Zoom meetings for every academic period, based on courses, sections, and teachers in Canvas LMS. It also links each meeting to its Canvas classroom | Python, FastAPI, MongoDB, Zoom API (OAuth S2S), Zoom LTI Pro, Canvas LMS API | [utpl-automation-zoom](https://github.com/robertovalladolid/utpl-automatizacion-zoom.git) |
