@@ -1,76 +1,82 @@
-# Hola, soy Roberto Valladolid 👋
+# Hi, I'm Roberto Valladolid 👋
 
-**Data Engineer | Azure Databricks · PySpark · SQL · Python | Machine Learning e IA**
+**Data Engineer | Azure Databricks · PySpark · SQL · Python | Machine Learning & AI**
 
-Ingeniero de Datos con más de 10 años de experiencia en ingeniería de datos y desarrollo de software en el sector educativo (Universidad Técnica Particular de Loja). Diseño pipelines ETL/ELT y arquitecturas Lakehouse con **Python, SQL, Apache Spark y Azure Databricks**, automatizo integraciones con APIs y llevo modelos de machine learning e IA generativa a producción para la toma de decisiones institucionales.
+Data Engineer with 10+ years of experience in data engineering and software development, currently at Universidad Técnica Particular de Loja (UTPL). I build ETL/ELT pipelines and Lakehouse architectures with **Python, SQL, Apache Spark, and Azure Databricks**, automate API integrations, and bring machine learning and generative AI into production.
 
-📍 Loja, Ecuador · 💼 [LinkedIn](https://www.linkedin.com/in/rcvalladolid/) · 📧 rcvalladolid87@gmail.com
+📍 Loja, Ecuador (GMT-5) · 🌎 Open to remote · 💼 [LinkedIn](https://www.linkedin.com/in/rcvalladolid/) · 📧 rcvalladolid87@gmail.com
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Tech stack
 
-| Área | Tecnologías |
+| Area | Technologies |
 |---|---|
-| Lenguajes | Python, SQL, PL/SQL, MQL (MongoDB Aggregation Pipeline) |
-| Ingeniería de datos | Apache Spark (PySpark, Spark SQL), Azure Databricks, Delta Lake, Unity Catalog, arquitectura Medallion / Lakehouse, ETL/ELT, calidad de datos |
-| Orquestación | Prefect, Talend, procesamiento concurrente y paralelo |
-| DevOps y CI/CD | Azure DevOps (Repos, Pipelines), Docker, Git, GitHub |
-| Bases de datos | Oracle, PostgreSQL, MongoDB, SQLite |
-| Machine Learning e IA | Scikit-learn, TensorFlow, MLflow, LangChain, LLMs (Ollama, OpenAI), Databricks Genie |
-| Cloud y visualización | Microsoft Azure, Power BI (DAX), Looker Studio |
+| Languages | Python, SQL, PL/SQL, MQL (MongoDB Aggregation Pipeline) |
+| Data engineering | Apache Spark (PySpark, Spark SQL), Azure Databricks, Delta Lake, Unity Catalog, Medallion / Lakehouse, ETL/ELT, data quality |
+| Orchestration | Prefect, Talend, concurrent and parallel processing |
+| DevOps & CI/CD | Azure DevOps (Repos, Pipelines), Docker, Git, GitHub, Linux |
+| Databases | Oracle, PostgreSQL, MongoDB, SQLite |
+| ML & AI | Scikit-learn, TensorFlow, MLflow, LangChain, LLMs (Ollama, OpenAI), Databricks Genie |
+| Cloud & BI | Microsoft Azure, Power BI (DAX), Looker Studio |
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-| Proyecto | Qué hace | Tecnologías | Repositorio |
+| Project | What it does | Tech | Repo |
 |---|---|---|---|
-| **Pipeline Medallion en Databricks** | Ingesta y transformación por capas Bronze / Silver / Gold con validaciones de calidad de datos | Azure Databricks, PySpark, Delta Lake, Unity Catalog | 🚧 Próximamente |
-| **ETL con Prefect y MongoDB** | Flujos ETL orquestados con Prefect y agregaciones en MongoDB para indicadores académicos | Python, Prefect, MongoDB, Docker | 🚧 Próximamente |
-| **Predicción de deserción estudiantil** | Modelo de clasificación de estudiantes por nivel de riesgo (alto, medio, bajo) | Python, Scikit-learn, MLflow | 🚧 Próximamente |
-| **Asistente académico conversacional** | Responde en lenguaje natural consultas de estudiantes usando datos de Canvas y Zoom | LangChain, Ollama, APIs REST | 🚧 Próximamente |
-| **Barra de progreso para Canvas (LTI)** | Herramienta externa LTI que muestra al estudiante su progreso por módulos | Node.js, Express, API REST de Canvas, LTI | [barra_progreso_lms_canvas](https://github.com/robertovalladolid/barra_progreso_lms_canvas) |
-| **MongoDB con Docker Compose** | Despliegue de MongoDB 6.0 con autenticación, volúmenes persistentes y variables de entorno | Docker, Docker Compose, MongoDB | [docker-mongodb](https://github.com/robertovalladolid/docker-mongodb) |
-| **Seguimiento de experimentos con MLflow** | Registro de experimentos y ajuste de hiperparámetros de un modelo de clasificación (trabajo de máster) | Python, Scikit-learn, MLflow | [Laboratorio2_IA](https://github.com/robertovalladolid/Laboratorio2_IA) |
+| **Databricks Medallion pipeline** | Bronze / Silver / Gold ingestion and transformation with data quality checks | Azure Databricks, PySpark, Delta Lake, Unity Catalog | 🚧 Coming soon |
+| **Prefect + MongoDB ETL** | Prefect-orchestrated ETL flows with MongoDB aggregations for academic KPIs | Python, Prefect, MongoDB, Docker | 🚧 Coming soon |
+| **Student dropout prediction** | Classifies students by risk level (high, medium, low) | Python, Scikit-learn, MLflow | 🚧 Coming soon |
+| **Conversational academic assistant** | Answers student questions in natural language using Canvas and Zoom data | LangChain, Ollama, REST APIs | 🚧 Coming soon |
+| **Canvas progress bar (LTI)** | External LTI tool showing each student their progress by course module | Node.js, Express, Canvas REST API, LTI | [barra_progreso_lms_canvas](https://github.com/robertovalladolid/barra_progreso_lms_canvas) |
+| **MongoDB with Docker Compose** | MongoDB 6.0 deployment with authentication, persistent volumes, and env-based config | Docker, Docker Compose, MongoDB | [docker-mongodb](https://github.com/robertovalladolid/docker-mongodb) |
+| **Experiment tracking with MLflow** | Experiment logging and hyperparameter tuning for a classification model (master's coursework) | Python, Scikit-learn, MLflow | [Laboratorio2_IA](https://github.com/robertovalladolid/Laboratorio2_IA) |
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
-**Desarrollador – Ingeniería de Datos e IA** · Universidad Técnica Particular de Loja (UTPL) · *Feb 2015 – Presente*
+**Developer – Data Engineering & AI** · Universidad Técnica Particular de Loja (UTPL) · *Feb 2015 – Present*
 
-- Pipelines ETL/ELT con arquitectura Medallion en Azure Databricks (Delta Lake, Unity Catalog) con validaciones de calidad de datos.
-- Flujos ETL con Prefect y Python en producción (Linux) con agregaciones en MongoDB: **−30% en tiempo de procesamiento**.
-- Integración de múltiples fuentes en una arquitectura Big Data on-premise con procesamiento concurrente y paralelo: **−50% en tiempo de carga**.
-- Automatización de sesiones de Zoom en Canvas (API de Zoom, LTI Pro): **más de 2000 sesiones por periodo**, coordinación de **24 h a menos de 10 min**.
-- Modelo de predicción de deserción estudiantil con **más del 85% de exactitud (accuracy)**.
-- Asistente académico conversacional con LangChain y Ollama integrado con Canvas y Zoom.
-- Modelos de datos e indicadores de desempeño académico en Power BI (DAX).
+- Medallion-architecture ETL/ELT pipelines on Azure Databricks (Delta Lake, Unity Catalog) with data quality validations.
+- Prefect + Python ETL workflows in production (Linux) with MongoDB aggregations: **30% less processing time**.
+- Multi-source integration into an on-premise Big Data architecture with concurrent and parallel processing: **50%+ less load time**.
+- Zoom + Canvas LMS automation (Zoom API, LTI Pro): **2,000+ sessions per term**, coordination from **24 hours to under 10 minutes**.
+- Student dropout prediction model with **85%+ accuracy**.
+- Conversational academic assistant with LangChain and Ollama, integrated with Canvas and Zoom.
+- Data models and academic performance dashboards in Power BI (DAX).
 
-**Desarrollador de Software** · Compañía de Economía Mixta Lojagas · *Nov 2010 – Ene 2015*
+**Software Developer** · Compañía de Economía Mixta Lojagas · *Nov 2010 – Jan 2015*
 
-- Aplicaciones internas de gestión sobre bases de datos relacionales, con modelos de datos y consultas SQL.
+- Android app for field reading of LPG meters, digitizing consumption capture for billing.
+- Dispatch-scheduling app and customer payment-lookup web app.
+- Relational data models, SQL queries, and administration of the Linux servers hosting the company's apps and databases.
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
-- **Máster en Inteligencia Artificial Aplicada** — UTPL, Ecuador (2025)
-- **Máster en Análisis y Visualización de Datos Masivos** — UNIR, España (2018)
-- **Ingeniería en Sistemas Informáticos y Computación** — UTPL, Ecuador (2015)
+- **M.S. in Applied Artificial Intelligence** — UTPL, Ecuador (2025)
+- **M.S. in Big Data Analytics and Visualization** — UNIR, Spain (2018)
+- **B.S. in Computer Science and Systems Engineering** (5-year degree) — UTPL, Ecuador (2015)
 
-## 📜 Certificaciones y formación
+## 📜 Certifications
 
-- Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750) — *en preparación (2026)*
+- Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750) — *in progress (2026)*
+- Microsoft Certified: Power Platform Fundamentals — Microsoft
 - Databricks Fundamentals Accreditation — Databricks (2025)
-- Data Engineering Bootcamp (AWS) — Datademia (2025)
-- Data Engineer Associate y Associate Data Engineer in Databricks (career track) — DataCamp (2026)
+- Data Engineer Associate and Associate Data Engineer in Databricks (career track) — DataCamp (2026)
 
-## 🏆 Reconocimientos
+## 🗣️ Languages
 
-- Tercer lugar, Concurso Universitario de Desarrollo Web — UTPL (2014)
+Spanish (native) · English (A2, currently advancing to B1)
+
+## 🏆 Awards
+
+- Third place, University Web Development Contest — UTPL (2014)
 
 ---
 
-⭐️ ¡Gracias por visitar mi perfil!
+⭐️ Thanks for visiting!
