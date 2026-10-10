@@ -34,6 +34,7 @@ Data Engineer with 10+ years of experience in data engineering and software deve
 | **Canvas progress bar (LTI)** | External LTI tool showing each student their progress by course module | Node.js, Express, Canvas REST API, LTI | [barra_progreso_lms_canvas](https://github.com/robertovalladolid/barra_progreso_lms_canvas) |
 | **MongoDB Docker Compose Setup** | Reusable Docker Compose setup that deploys MongoDB 6.0 (LTS) with authentication enabled, persistent volumes for data, logs and config, environment-based configuration via .env, a tuned WiredTiger cache and Portainer compatibility | Docker, Docker Compose, MongoDB 6.0, Portainer | [docker-mongodb](https://github.com/robertovalladolid/docker-mongodb) |
 | **Experiment tracking with MLflow** | Experiment logging and hyperparameter tuning for a classification model (master's coursework) | Python, Scikit-learn, MLflow | [Laboratorio2_IA](https://github.com/robertovalladolid/Laboratorio2_IA) |
+| **NEXO – Co-Parenting Mobile App** | Cross-platform mobile app that helps separated parents coordinate their children’s care. It includes a shared custody calendar with visit templates and custody stats, child handoffs with location and history, shared expenses, a health log, a document vault, a diary with photos, and a parent chat | React Native, Expo (SDK 54), TypeScript, Firebase (Auth, Firestore, Storage), Google Gemini API, Google OAuth | [nexo-app-mobile](https://github.com/robertovalladolid/nexo-app-mobile.git) |
 
 ---
 
