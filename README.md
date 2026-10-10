@@ -65,7 +65,7 @@ Data Engineer with 10+ years of experience in data engineering and software deve
 ## 📜 Certifications
 
 - Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750) — *in progress (2026)*
-- Microsoft Certified: Power Platform Fundamentals — Microsoft
+- Microsoft Certified: Power Platform Fundamentals — Microsoft (2022)
 - Databricks Fundamentals Accreditation — Databricks (2025)
 - Data Engineer Associate and Associate Data Engineer in Databricks (career track) — DataCamp (2026)
 
